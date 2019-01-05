@@ -1,0 +1,7 @@
+[] first task
+[x] second task
+[x] third task
+[] Look into session scoping work
+[x] Static methods
+[] testing
+[] testing
